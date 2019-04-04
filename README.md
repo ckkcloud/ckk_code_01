@@ -6,7 +6,7 @@
 
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-landing-page.git`
+* Clone the repo: `git clone https://github.com/ckkcloud/ckk_code_01.git`
 * Fork the repo
 
 ## Bugs and Issues
@@ -15,13 +15,10 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+Start Bootstrap was created by and is maintained by **[CKK](http://ckk.cloud/)**
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) 
 
 ## Copyright and License
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+Copyright 2019 @ CKK.CLOUD 
